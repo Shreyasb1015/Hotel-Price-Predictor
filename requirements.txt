@@ -1,0 +1,4 @@
+streamlit==0.79.0
+numpy==1.19.2
+pickle
+scikit-learn==0.23.2
